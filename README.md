@@ -28,7 +28,11 @@
 ![image](https://github.com/user-attachments/assets/71a63924-3716-4a63-8e87-cb59f1fb3561)
 
 # 사용 AI 모델
-![image](https://github.com/user-attachments/assets/21477c60-b4bd-4e94-8b51-a7b0d4711f71)
+https://www.kaggle.com/code/tanreinama/lb0-1213-models-training-code/notebook
+<div>
+  <p>Kaggle Imaterialist - Fashion Contest 참가자 tanrei가 제시한 모델 참고</p>
+  <img src="https://github.com/user-attachments/assets/1dce2e85-ed87-491b-9ee8-5c435254d897">
+</div>
 
 # 기술 스택
 ![image](https://github.com/user-attachments/assets/40f2a078-cbb5-4694-92af-5136f42b328e)
