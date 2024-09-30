@@ -34,6 +34,9 @@ https://www.kaggle.com/code/tanreinama/lb0-1213-models-training-code/notebook
   <img src="https://github.com/user-attachments/assets/1dce2e85-ed87-491b-9ee8-5c435254d897">
   <p>추출한 Category 및 Attributes 기반으로 가장 연관도 높은 Category별 상품 추천</p>
   <p>연관도 계산 방법 : 각 Category 및 Attributes 별 중복 등장 횟수가 저장된 json 파일로 점수 계산</p>
+  <img src="https://github.com/user-attachments/assets/95872dd7-c5d0-4401-bb01-f287c31196ed">
+  <img src="https://github.com/user-attachments/assets/0ac5da4c-8d21-4b3b-9000-fffcb379a4a5">
+
 </div>
 
 # 기술 스택
