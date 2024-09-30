@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/8d80f62e-23d8-432b-83f5-c818e56bc40a)
 ![image](https://github.com/user-attachments/assets/7733c94b-e42b-4f0f-8efb-8e2b7b0e5ef5)
 ![image](https://github.com/user-attachments/assets/b762654c-08e9-4b6a-bcf0-4d15fbcf9b4b)
-![image](https://github.com/user-attachments/assets/ece15f7c-c011-47b8-96cb-fd3d9f0a7004)
+![image](https://github.com/user-attachments/assets/76177baa-a9d0-44f5-ac19-4820d0b06460)
 
 # ERD Table
 ![image](https://github.com/user-attachments/assets/71a63924-3716-4a63-8e87-cb59f1fb3561)
