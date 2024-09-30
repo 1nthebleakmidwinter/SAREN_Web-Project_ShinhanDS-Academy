@@ -32,6 +32,8 @@ https://www.kaggle.com/code/tanreinama/lb0-1213-models-training-code/notebook
 <div>
   <p>Kaggle Imaterialist - Fashion Contest 참가자 tanrei가 제시한 모델 참고</p>
   <img src="https://github.com/user-attachments/assets/1dce2e85-ed87-491b-9ee8-5c435254d897">
+  <p>추출한 Category 및 Attributes 기반으로 가장 연관도 높은 Category별 상품 추천</p>
+  <p>연관도 계산 방법 : 각 Category 및 Attributes 별 중복 등장 횟수가 저장된 json 파일로 점수 계산</p>
 </div>
 
 # 기술 스택
