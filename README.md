@@ -13,6 +13,8 @@
 </p>
 <hr>
 
+#### 📙 발표자료 보러가기([Click](https://www.canva.com/design/DAGJ8f5G-TA/9geDvw7rdnxGzzwrGpeFYg/edit))
+
 # 주요 기능
 ![image](https://github.com/user-attachments/assets/3d6334d8-3437-4e1e-81cf-d509516a361b)
 
