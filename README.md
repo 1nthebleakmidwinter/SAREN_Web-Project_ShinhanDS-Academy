@@ -13,6 +13,7 @@
 </p>
 <hr>
 
+#### 🎥 시연 영상 보러가기([Click](https://www.youtube.com/watch?v=SCmPplDEd8c))
 #### 📙 발표자료 보러가기([Click](https://www.canva.com/design/DAGJ8f5G-TA/9geDvw7rdnxGzzwrGpeFYg/edit))
 
 # 주요 기능
